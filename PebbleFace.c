@@ -8,7 +8,7 @@ int tick = 0;
 bool check = false;
 int avoid_counter = 0;
 
-//THIS BE DA TEXT FUNCTION
+//THIS IS THE TEXT FUNCTION
 static void TEXT(int n) {
 	text_layer_set_text(text_layer, "You've been avoiding me :|");
 	//from a to b
